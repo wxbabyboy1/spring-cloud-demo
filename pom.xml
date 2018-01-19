@@ -19,6 +19,9 @@
         <module>service-zuul</module>
         <module>config-service</module>
         <module>config-client</module>
+        <module>eureka-server-ha</module>
+        <module>config-server-ha</module>
+        <module>config-client-ha</module>
     </modules>
 
 

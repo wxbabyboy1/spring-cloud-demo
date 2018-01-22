@@ -22,6 +22,7 @@
         <module>eureka-server-ha</module>
         <module>config-server-ha</module>
         <module>config-client-ha</module>
+        <module>config-client-bus</module>
     </modules>
 
 

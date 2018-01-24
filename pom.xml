@@ -26,6 +26,8 @@
         <module>server-zipkin</module>
         <module>server-zipkin-hi</module>
         <module>service-miya</module>
+        <module>eureka-server-register</module>
+        <module>eureka-client-register</module>
     </modules>
 
 
